@@ -1,0 +1,25 @@
+.inputField{
+   width: 100%;
+}
+
+#datePicker{
+  width: 100%;
+}
+
+.dateContainer div.react-datepicker-wrapper{
+  width: 100%;
+}
+
+.saveChanges{
+  text-align: center;
+}
+
+.saveButton{
+  margin: 15px 15px 15px 15px;
+  width: 300px;
+}
+
+.errorMessage{
+  color: red;
+  display: none;
+}

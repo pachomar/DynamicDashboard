@@ -1,0 +1,14 @@
+h2{
+    float: left;
+    padding: 10px;
+}
+
+.createButton{
+    float: right;
+    margin: 10px 10px 10px 10px;
+}
+
+.popupWindow{
+    width: 200px;
+    height: 400px;
+}

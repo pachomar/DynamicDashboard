@@ -63,46 +63,6 @@
       "location": "Bodega The Goat",
       "date": "2022-01-02",
       "categoryId": 2
-    },
-    {
-      "name": "fdfdf",
-      "description": "dffdd",
-      "location": "cvcvcv",
-      "date": "2020-03-05",
-      "categoryId": 0,
-      "id": 8
-    },
-    {
-      "name": "bbf",
-      "description": "fsdf",
-      "location": "dfsf",
-      "date": "2020-03-06",
-      "categoryId": 0,
-      "id": 9
-    },
-    {
-      "name": "cvc",
-      "description": "xxcvc",
-      "location": "xcxvcv",
-      "date": "2020-03-25",
-      "categoryId": 0,
-      "id": 10
-    },
-    {
-      "name": "ghf",
-      "description": "fgdf",
-      "location": "dgf",
-      "date": "2020-03-11",
-      "categoryId": "1",
-      "id": 11
-    },
-    {
-      "name": "nhgn",
-      "description": "fvdfv",
-      "location": "xcvcxv",
-      "date": "2020-04-03",
-      "categoryId": "1",
-      "id": 12
     }
   ],
   "categories": [
